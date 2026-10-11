@@ -11,7 +11,7 @@
 👨‍💻 About Me
 
 - 🎓 BCA 2nd Year Student
-- 💻 Currently learning C, C++, Java, HTML, CSS and JavaScript
+- 💻 Currently learning java, DBMS and Shell
 - 🌐 Interested in Web Development
 - 🤖 Exploring Artificial Intelligence
 - 🚀 Building projects to improve my programming skills
